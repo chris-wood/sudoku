@@ -1,0 +1,2 @@
+# sudoku
+prolog suduko
